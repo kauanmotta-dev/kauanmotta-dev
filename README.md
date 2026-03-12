@@ -10,6 +10,31 @@ Antes da área de tecnologia, servi no **Exército Brasileiro**, atuando como **
 
 Atualmente meu foco está no desenvolvimento **backend com Java**, trabalhando com construção de **APIs REST robustas, arquitetura de software e sistemas seguros**.
 
+
+<a href="https://www.linkedin.com/in/kauan-motta-4b49b43b6/">
+  <img 
+      title="Follow me on Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+<a href="https://wa.me/5567998890448">
+  <img 
+      title="Send a Message"
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:kauanmotta2021@email.com">
+    <img 
+      title="Send an Email"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      />
+</a>
+<a href="https://github.com/kauanmotta-dev?tab=repositories">
+        <img 
+            title="See the Repositories" 
+            src="https://img.shields.io/badge/Repositories-115590?style=for-the-badge&logo=github&logoColor=white" 
+        />
+    </a>
+    
 ---
 
 # 🚀 Tecnologias e Ferramentas
