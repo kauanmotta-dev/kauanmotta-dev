@@ -80,14 +80,3 @@ Atualmente meu foco está no desenvolvimento de APIs REST com foco em arquitetur
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
 ![Swagger](https://img.shields.io/badge/-Swagger%20%2F%20OpenAPI-333333?style=flat&logo=swagger)
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&layout=compact&theme=tokyonight"/>
-
-</p>
