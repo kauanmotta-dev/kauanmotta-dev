@@ -2,13 +2,14 @@
 
 **`Backend Java Developer`**
 
-Me chamo Kauan Motta, tenho 22 anos e atualmente estou cursando o **Curso Técnico em Desenvolvimento de Sistemas pelo Senac**.
+Me chamo Kauan Motta, sou desenvolvedor backend com foco em **Java e construção de APIs REST**.
 
 Possuo formação complementar em **desenvolvimento Java pela Raro Academy**, onde obtive certificação com destaque no programa de formação.
+Atualmente estou cursando o **Curso Técnico em Desenvolvimento de Sistemas pelo Senac**.
 
-Antes da área de tecnologia, servi no **Exército Brasileiro**, atuando como **Sargento em setores administrativos e financeiros**, incluindo **Tesouraria e Furriel**. Essa experiência me proporcionou disciplina, responsabilidade e organização — habilidades que hoje aplico no desenvolvimento de software e na construção de sistemas confiáveis.
+Antes da área de tecnologia, servi no **Exército Brasileiro**, atuando como **3° Sargento em setores administrativos e financeiros**. Essa experiência me proporcionou disciplina, responsabilidade, organização e cooperação — habilidades que hoje aplico no desenvolvimento de software e na construção de sistemas confiáveis.
 
-Atualmente meu foco está no desenvolvimento **backend com Java**, trabalhando com construção de **APIs REST robustas, arquitetura de software e sistemas seguros**.
+Atualmente meu foco está no desenvolvimento de APIs REST com foco em arquitetura robusta, consistência transacional, segurança de domínio e integridade de dados.
 
 
 <a href="https://www.linkedin.com/in/kauan-motta-4b49b43b6/">
@@ -37,93 +38,68 @@ Atualmente meu foco está no desenvolvimento **backend com Java**, trabalhando c
     
 ---
 
-# 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 ### Backend
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
 
-### APIs
-- RESTful APIs
-- DTO Pattern
-- Exception Handling
-- Pagination
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=springsecurity)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-333333?style=flat&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 
-### Arquitetura
-- Clean Architecture
-- Domain Driven Design (DDD)
-- Domain Invariants
-- State Machines
-- Idempotency
-- Concurrency Control
-- Optimistic Locking
 
-### Segurança
-- JWT Authentication
-- Role-Based Authorization
-- Password Hashing (BCrypt)
+### Data
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- H2 Database
-- JPA / Hibernate ORM
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-### Ferramentas
-- Docker
-- Maven
-- Git
-- GitHub
-- Swagger / OpenAPI
-- Postman
 
+### Architecture
+
+`REST APIs` • `Webhooks` • `JWT` • `State Machines` •  
+`Domain Modeling` • `Clean Architecture` •  
+`Transaction Management` • `Optimistic Locking` • `Idempotency`
+
+
+### DevOps
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker)
+
+
+### Tools
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
+![Swagger](https://img.shields.io/badge/-Swagger%20%2F%20OpenAPI-333333?style=flat&logo=swagger)
 ---
 
-# 📂 Projetos
-
-### 🔹 Projeto 1
-**Descrição:**  
-Breve descrição do projeto.
-
-**Tecnologias:**  
-Java • Spring Boot • PostgreSQL • REST API
-
----
-
-### 🔹 Projeto 2
-**Descrição:**  
-Breve descrição do projeto.
-
-**Tecnologias:**  
-Java • Spring Boot • JWT • JPA
-
----
-
-# 📚 Atualmente estudando
-
-- Arquitetura de sistemas distribuídos  
-- Mensageria e processamento assíncrono  
-- Boas práticas de engenharia de software  
-- Escalabilidade e observabilidade de APIs
-
----
-
-# 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
-    height="180" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&theme=tokyonight&layout=compact&langs_count=6" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
