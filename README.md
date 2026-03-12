@@ -1,6 +1,12 @@
 # 👨‍💻 Kauan Motta
+<p align="left">
+<img src="https://img.shields.io/badge/Backend%20Java%20Developer-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-**`Backend Java Developer`**
+<img src="https://komarev.com/ghpvc/?username=kauanmotta-dev&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+
+
 
 Me chamo Kauan Motta, sou desenvolvedor backend com foco em **Java e construção de APIs REST**.
 
@@ -80,26 +86,12 @@ Atualmente meu foco está no desenvolvimento de APIs REST com foco em arquitetur
 ![Swagger](https://img.shields.io/badge/-Swagger%20%2F%20OpenAPI-333333?style=flat&logo=swagger)
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&layout=compact&theme=tokyonight"/>
 
 </p>
-
-[![iuricode](https://github-readme-stats.vercel.app/api?username=kauanmotta-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmotta-dev&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
