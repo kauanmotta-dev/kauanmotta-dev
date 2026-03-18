@@ -2,7 +2,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Backend%20Java%20Developer-1F1F1F?style=flat&logoColor=white"/>
 
-<img src="https://komarev.com/ghpvc/?username=kauanmotta-dev&label=Profile%20views&color=0e75b6&style=flat"/>
+<!--<img src="https://komarev.com/ghpvc/?username=kauanmotta-dev&label=Profile%20views&color=0e75b6&style=flat"/>-->
 </p>
 
 Me chamo Kauan Motta, sou desenvolvedor backend com foco em **Java e construção de APIs REST**.
