@@ -14,7 +14,7 @@ Antes da área de tecnologia, servi no **Exército Brasileiro**, atuando como **
 
 Atualmente meu foco está no desenvolvimento de APIs REST com foco em arquitetura robusta, consistência transacional, segurança de domínio e integridade de dados.
 
-<a href="https://www.linkedin.com/in/kauan-motta-4b49b43b6/">
+<a href="https://www.linkedin.com/in/kauanmotta-dev/">
   <img 
       title="Follow me on Linkedin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
